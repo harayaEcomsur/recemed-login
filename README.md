@@ -18,7 +18,7 @@
 
 ```bash
 npm test
-
+```
 ## Comandos para ejecutar el proyecto
 
 ```bash
